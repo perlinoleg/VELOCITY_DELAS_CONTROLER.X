@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/maincfg_xc_1_30/production/HPD_CONTROLER.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>9216</length>
+      <used>1046</used>
+      <free>8170</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>55293</length>
+      <used>20853</used>
+      <free>34440</free>
+    </memory>
+  </executable>
+</project>
